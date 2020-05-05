@@ -41,7 +41,7 @@ class _MyAppState extends State {
     var questions = [
       {
         'questionText': 'What\'s your favorite color',
-        'answers': ['Black', 'Red', 'White', 'Green'],
+        'answers': ['Pink', 'Red', 'White', 'Green'],
       },
       {
         'questionText': 'What\'s your favorite animal?',
@@ -55,7 +55,7 @@ class _MyAppState extends State {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('My First App Modifed'),
+          title: Text('My First App Changed'),
         ),
         body: Column(
           children: <Widget>[
