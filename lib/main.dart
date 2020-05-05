@@ -48,14 +48,14 @@ class _MyAppState extends State {
         'answers': ['Lion', 'Rabbit', 'Dog', 'Cat'],
       },
       {
-        'questionText': 'What\'s your favorite instructor',
-        'answers': ['Max', 'Kyrenis', 'Max', 'Max'],
+        'questionText': 'What\'s your favorite shoes',
+        'answers': ['Nike', 'Vans', 'Adidas', 'Rebook'],
       },
     ];
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('My First App'),
+          title: Text('My First App Modifed'),
         ),
         body: Column(
           children: <Widget>[
