@@ -45,7 +45,7 @@ class _MyAppState extends State {
       },
       {
         'questionText': 'What\'s your favorite animal?',
-        'answers': ['Lion', 'Rabbit', 'Dog', 'Cat'],
+        'answers': ['Lion', 'Mantid', 'Dog', 'Cat'],
       },
       {
         'questionText': 'What\'s your favorite shoes',
