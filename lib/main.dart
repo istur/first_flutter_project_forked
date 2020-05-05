@@ -41,11 +41,11 @@ class _MyAppState extends State {
     var questions = [
       {
         'questionText': 'What\'s your favorite color',
-        'answers': ['Black', 'Red', 'White', 'Green'],
+        'answers': ['Black', 'Orange', 'Violet', 'Green'],
       },
       {
         'questionText': 'What\'s your favorite animal?',
-        'answers': ['Lion', 'Mantid', 'Dog', 'Cat'],
+        'answers': ['Lion', 'Mantid', 'Spider', 'Cat'],
       },
       {
         'questionText': 'What\'s your favorite shoes',
